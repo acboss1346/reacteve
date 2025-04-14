@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reacteve/static/css/main.ff7bfb66.css",
+    "main.js": "/reacteve/static/js/main.3d40fdce.js",
+    "static/js/453.5a16f58e.chunk.js": "/reacteve/static/js/453.5a16f58e.chunk.js",
+    "index.html": "/reacteve/index.html",
+    "main.ff7bfb66.css.map": "/reacteve/static/css/main.ff7bfb66.css.map",
+    "main.3d40fdce.js.map": "/reacteve/static/js/main.3d40fdce.js.map",
+    "453.5a16f58e.chunk.js.map": "/reacteve/static/js/453.5a16f58e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff7bfb66.css",
+    "static/js/main.3d40fdce.js"
+  ]
+}
